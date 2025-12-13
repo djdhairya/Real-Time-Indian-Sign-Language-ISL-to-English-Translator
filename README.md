@@ -153,16 +153,16 @@ python app.py
 ## 📸 Screenshots & Diagrams
 
 - Model Architecture Diagram
-<img width="823" height="443" alt="Screenshot 2025-12-13 084324" src="https://github.com/user-attachments/assets/93106c8f-196d-4594-9ec6-80e5c1193b71" />
+<img width="823" height="443" alt="Screenshot 2025-12-13 084324" src="https://github.com/user-attachments/assets/7338e18d-40e5-4f8e-95b4-a3ac9a0890e3" />
 
 - Training Accuracy vs Loss Graph
-<img width="1973" height="878" alt="graph" src="https://github.com/user-attachments/assets/a09598f3-0b44-4983-8b43-d8ee94d2ecb4" />
+<img width="1973" height="878" alt="graph" src="https://github.com/user-attachments/assets/8c061585-041f-4432-a982-69f75a13626f" />
 
 - Activity Diagram
-<img width="975" height="603" alt="Screenshot 2025-12-13 084832" src="https://github.com/user-attachments/assets/dc83606d-8b5b-42e6-9df8-2c7c98798268" />
+<img width="975" height="603" alt="Screenshot 2025-12-13 084832" src="https://github.com/user-attachments/assets/640e210f-f9a7-4ba7-b1e8-d4842c60c81e" />
 
 - Live Translation Demo
-<img width="417" height="389" alt="Screenshot 2025-12-13 084542" src="https://github.com/user-attachments/assets/3c85f520-e578-4b5a-91e0-8327a62d0fd0" />
+<img width="417" height="389" alt="Screenshot 2025-12-13 084542" src="https://github.com/user-attachments/assets/acde3041-5c6a-4f66-9c55-8e8bd2d51cc8" />
 
 
 
@@ -189,10 +189,15 @@ python app.py
 
 
 ## Output
-<img width="797" height="614" alt="Screenshot 2025-12-12 054925" src="https://github.com/user-attachments/assets/426bd572-7f34-48ac-8748-b8ecee300ee2" />
-<img width="984" height="806" alt="Screenshot 2025-12-13 090618" src="https://github.com/user-attachments/assets/ecceea26-f4d0-4a39-ae22-76be65c43d86" />
-<img width="799" height="633" alt="Screenshot 2025-12-12 051340" src="https://github.com/user-attachments/assets/2ea9c811-7df6-4e7b-98a2-8b20a2fd8687" />
-<img width="1072" height="842" alt="Screenshot 2025-12-13 090637" src="https://github.com/user-attachments/assets/8d193c00-e2a5-4fcf-a0e5-4ca2b8a3d8a7" />
+<img width="797" height="614" alt="Screenshot 2025-12-12 054925" src="https://github.com/user-attachments/assets/2f1a289f-1fb8-4684-8d80-db0fc60498cb" />
+<img width="984" height="806" alt="Screenshot 2025-12-13 090618" src="https://github.com/user-attachments/assets/70a3b689-1b27-44d4-8329-f82211ac459b" />
+<img width="799" height="633" alt="Screenshot 2025-12-12 051340" src="https://github.com/user-attachments/assets/042cc135-3a78-4370-a9c0-63b9e382891a" />
+<img width="1072" height="842" alt="Screenshot 2025-12-13 090637" src="https://github.com/user-attachments/assets/e321c874-e4b7-4182-b825-cb2ea7fcd964" />
+
+
+
+
+
 
 
 
